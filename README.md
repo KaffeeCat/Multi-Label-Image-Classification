@@ -1,7 +1,7 @@
 # Multi-Label-Image-Classification
 Multi-Label Image Classification
 
-Dataset : [Fashion Product Images](https://www.kaggle.com/paramaggarwal/fashion-product-images-small)
+Dataset : [Fashion Product Images](https://www.kaggle.com/paramaggarwal/fashion-product-images-small) ([Download](https://storage.googleapis.com/kaggle-data-sets/175990/396802/bundle/archive.zip?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20220313%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20220313T125551Z&X-Goog-Expires=259199&X-Goog-SignedHeaders=host&X-Goog-Signature=40861067824d83e8f56a8d94403bc16734064e63b771b93d36c7ccf711377dbab0496030709ec2ddc0305ab0b79a4cca63c633e12fab9e5236f2e59f5717c274386cc7e141765e4700483d06b5b4003e42f1b877af659e4253c312ec82169df706d9439dd82ffdb3c334731dbdf74d5d3cc9979892eaaf7ebcbeadff22626f2cb92d7bea346c500f4163b6c7ac7414232ee40699bd1c1f40afa11a92c3b3d06b3f5d678a53ff24f1490fd748ca6277ff6482bb91661f26007fcfac5c255e9eb94ca76908edc09e9877de4df5e2d4e26c8a7f7adaec49ff53c7ade79f1af178727a59ed51d261eb85b9d992da31e54b935395bf63fe070e9ef2ce264b30feaf91))
 
 Architecture : Three classification heads sharing one backbone.
 
